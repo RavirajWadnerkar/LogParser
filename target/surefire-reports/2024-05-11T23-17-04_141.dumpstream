@@ -1,0 +1,5 @@
+# Created at 2024-05-11T23:17:04.506
+Boot Manifest-JAR contains absolute paths in classpath 'D:\RAVI\SJSU\Ravi\Sem-2\Software Systems Engineering\Individual Project\individual-project-RavirajWadnerkar\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

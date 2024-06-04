@@ -1,0 +1,108 @@
+{
+  "/api/save": {
+    "response_times": {
+      "95_percentile": 300.0,
+      "average": 300.0,
+      "90_percentile": 300.0,
+      "min": 300.0,
+      "median": 300.0,
+      "max": 300.0,
+      "50_percentile": 300.0,
+      "99_percentile": 300.0
+    },
+    "status_codes": {
+      "2XX": 1
+    }
+  },
+  "/config": {
+    "response_times": {
+      "95_percentile": 10.0,
+      "average": 10.0,
+      "90_percentile": 10.0,
+      "min": 10.0,
+      "median": 10.0,
+      "max": 10.0,
+      "50_percentile": 10.0,
+      "99_percentile": 10.0
+    },
+    "status_codes": {
+      "4XX": 1
+    }
+  },
+  "/api/health": {
+    "response_times": {
+      "95_percentile": 120.0,
+      "average": 120.0,
+      "90_percentile": 120.0,
+      "min": 120.0,
+      "median": 120.0,
+      "max": 120.0,
+      "50_percentile": 120.0,
+      "99_percentile": 120.0
+    },
+    "status_codes": {
+      "2XX": 1
+    }
+  },
+  "/api/update": {
+    "response_times": {
+      "95_percentile": 220.0,
+      "average": 220.0,
+      "90_percentile": 220.0,
+      "min": 220.0,
+      "median": 220.0,
+      "max": 220.0,
+      "50_percentile": 220.0,
+      "99_percentile": 220.0
+    },
+    "status_codes": {
+      "4XX": 1
+    }
+  },
+  "/$8@#%*": {
+    "response_times": {
+      "95_percentile": 300.0,
+      "average": 261.57142857142856,
+      "90_percentile": 300.0,
+      "min": 31.0,
+      "median": 300.0,
+      "max": 300.0,
+      "50_percentile": 300.0,
+      "99_percentile": 300.0
+    },
+    "status_codes": {
+      "2XX": 6,
+      "4XX": 1
+    }
+  },
+  "/api/rebackup": {
+    "response_times": {
+      "95_percentile": 400.0,
+      "average": 400.0,
+      "90_percentile": 400.0,
+      "min": 400.0,
+      "median": 400.0,
+      "max": 400.0,
+      "50_percentile": 400.0,
+      "99_percentile": 400.0
+    },
+    "status_codes": {
+      "2XX": 2
+    }
+  },
+  "/api/backup/status": {
+    "response_times": {
+      "95_percentile": 350.0,
+      "average": 144.875,
+      "90_percentile": 350.0,
+      "min": 50.0,
+      "median": 100.5,
+      "max": 350.0,
+      "50_percentile": 100.0,
+      "99_percentile": 350.0
+    },
+    "status_codes": {
+      "2XX": 8
+    }
+  }
+}
