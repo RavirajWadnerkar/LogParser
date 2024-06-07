@@ -1,3 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/1QoVRpl7)
+# LogParser
 
+Part 1: Answers to the questions in part 1 can be found in CMPE_202_Individual Project.pdf
 
+Part 2: The Java Code with Unit tests can be found in LogParserApp directory.
+
+To run this code you must have Maven installed.
+- step1: in the command line run mvn clean install
+- step2: in the command line run java -jar target/CommandLogParserApp-1.0-jar-with-dependencies.jar --file resources/input.txt
+
+You may change the input.txt as per your requirements.
